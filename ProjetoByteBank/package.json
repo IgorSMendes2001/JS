@@ -16,6 +16,6 @@
     "url": "https://github.com/IgorSnake19/JS/issues"
   },
   "homepage": "https://github.com/IgorSnake19/JS#readme",
-  "type": "module"
-
+  "type": "module",
+  "keywords": []
 }

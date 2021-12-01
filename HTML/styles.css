@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Roboto',sans-serif;
+    text-align: center;
+    color: bisque;
+}
+h2{
+    font-family: 'Roboto',sans-serif;
+    text-align: center;
+    color: bisque;
+}
+header{
+    background-color:coral;
+    height: 100%;
+    width: 100%;
+    padding: 3px;
+}
